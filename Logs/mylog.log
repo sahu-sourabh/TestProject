@@ -1,0 +1,636 @@
+12/04/2022 10:01:08 PM:INFO:
+
+12/04/2022 10:01:08 PM:INFO:====== WebDriver manager ======
+12/04/2022 10:01:09 PM:INFO:Current google-chrome version is 100.0.4896
+12/04/2022 10:01:09 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+12/04/2022 10:01:09 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+12/04/2022 10:01:11 PM:INFO:************************************ Test_001_Login ************************************
+12/04/2022 10:01:16 PM:INFO:************************************ navigated to baseURL ************************************
+12/04/2022 10:01:16 PM:INFO:************************************ Validated Title Successfully ************************************
+12/04/2022 10:01:16 PM:INFO:
+
+12/04/2022 10:01:16 PM:INFO:====== WebDriver manager ======
+12/04/2022 10:01:16 PM:INFO:Current google-chrome version is 100.0.4896
+12/04/2022 10:01:16 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+12/04/2022 10:01:17 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+12/04/2022 10:01:22 PM:INFO:************************************ Navigated to baseURL ************************************
+12/04/2022 10:01:22 PM:INFO:************************************ Received driver reference in LoginPage(self.driver) ************************************
+12/04/2022 10:01:22 PM:INFO:************************************ Entered Username ************************************
+12/04/2022 10:01:22 PM:INFO:************************************ Entered Password ************************************
+12/04/2022 10:01:26 PM:INFO:************************************ Clicked Login Button ************************************
+12/04/2022 10:01:27 PM:INFO:************************************ Title Validation Passed ************************************
+13/04/2022 08:48:06 AM:INFO:
+
+13/04/2022 08:48:06 AM:INFO:====== WebDriver manager ======
+13/04/2022 08:48:06 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 08:48:06 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 08:48:07 AM:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+13/04/2022 08:48:10 AM:INFO:Driver has been saved in cache [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+13/04/2022 08:48:15 AM:INFO:************************************ Test_001_Login ************************************
+13/04/2022 08:48:27 AM:INFO:************************************ navigated to baseURL ************************************
+13/04/2022 08:48:27 AM:INFO:************************************ Validated Title Successfully ************************************
+13/04/2022 08:48:27 AM:INFO:
+
+13/04/2022 08:48:27 AM:INFO:====== WebDriver manager ======
+13/04/2022 08:48:28 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 08:48:28 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 08:48:29 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 08:48:36 AM:INFO:************************************ Navigated to baseURL ************************************
+13/04/2022 08:48:36 AM:INFO:************************************ Received driver reference in LoginPage(self.driver) ************************************
+13/04/2022 08:48:36 AM:INFO:************************************ Entered Username ************************************
+13/04/2022 08:48:36 AM:INFO:************************************ Entered Password ************************************
+13/04/2022 08:48:55 AM:INFO:************************************ Clicked Login Button ************************************
+13/04/2022 08:48:55 AM:INFO:************************************ Title Validation Passed ************************************
+13/04/2022 08:49:11 AM:INFO:====== WebDriver manager ======
+13/04/2022 08:49:12 AM:INFO:Current edge version is 100.0.1185
+13/04/2022 08:49:12 AM:INFO:Get LATEST edgedriver version for 100.0.1185 Edge
+13/04/2022 08:49:12 AM:INFO:There is no [win64] edgedriver for browser 100.0.1185 in cache
+13/04/2022 08:49:12 AM:INFO:Trying to download new driver from https://msedgedriver.azureedge.net/100.0.1185.39/edgedriver_win64.zip
+13/04/2022 08:49:16 AM:INFO:Driver has been saved in cache [C:\Users\sourabh_sahu\.wdm\drivers\edgedriver\win64\100.0.1185.39]
+13/04/2022 08:49:28 AM:INFO:************************************ Test_001_Login ************************************
+13/04/2022 08:49:32 AM:INFO:************************************ navigated to baseURL ************************************
+13/04/2022 08:49:34 AM:INFO:************************************ Validated Title Successfully ************************************
+13/04/2022 08:49:34 AM:INFO:====== WebDriver manager ======
+13/04/2022 08:49:34 AM:INFO:Current edge version is 100.0.1185
+13/04/2022 08:49:34 AM:INFO:Get LATEST edgedriver version for 100.0.1185 Edge
+13/04/2022 08:49:35 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\edgedriver\win64\100.0.1185.39\msedgedriver.exe] found in cache
+13/04/2022 08:50:02 AM:INFO:************************************ Navigated to baseURL ************************************
+13/04/2022 08:50:02 AM:INFO:************************************ Received driver reference in LoginPage(self.driver) ************************************
+13/04/2022 08:50:02 AM:INFO:************************************ Entered Username ************************************
+13/04/2022 08:50:02 AM:INFO:************************************ Entered Password ************************************
+13/04/2022 08:50:07 AM:INFO:************************************ Clicked Login Button ************************************
+13/04/2022 08:50:07 AM:INFO:************************************ Title Validation Passed ************************************
+13/04/2022 08:53:31 AM:INFO:
+
+13/04/2022 08:53:31 AM:INFO:====== WebDriver manager ======
+13/04/2022 08:53:31 AM:INFO:Get LATEST driver version for 
+13/04/2022 08:53:33 AM:INFO:There is no [win64] IEDriverServer for browser  in cache
+13/04/2022 08:53:33 AM:INFO:Getting latest ie release info for 4.0.0
+13/04/2022 08:53:33 AM:INFO:Trying to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.0.0/IEDriverServer_x64_4.0.0.zip
+13/04/2022 08:53:35 AM:INFO:Driver has been saved in cache [C:\Users\sourabh_sahu\.wdm\drivers\IEDriverServer\win64\4.0.0]
+13/04/2022 08:53:49 AM:INFO:************************************ Test_001_Login ************************************
+13/04/2022 09:00:59 AM:INFO:
+
+13/04/2022 09:00:59 AM:INFO:
+
+13/04/2022 09:00:59 AM:INFO:====== WebDriver manager ======
+13/04/2022 09:00:59 AM:INFO:====== WebDriver manager ======
+13/04/2022 09:01:00 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 09:01:00 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 09:01:00 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 09:01:00 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 09:01:01 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 09:01:01 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 09:01:03 AM:INFO:************************************ Test_001_Login ************************************
+13/04/2022 09:01:08 AM:INFO:************************************ navigated to baseURL ************************************
+13/04/2022 09:01:08 AM:INFO:************************************ Validated Title Successfully ************************************
+13/04/2022 09:01:08 AM:INFO:************************************ Navigated to baseURL ************************************
+13/04/2022 09:01:08 AM:INFO:************************************ Received driver reference in LoginPage(self.driver) ************************************
+13/04/2022 09:01:09 AM:INFO:************************************ Entered Username ************************************
+13/04/2022 09:01:09 AM:INFO:************************************ Entered Password ************************************
+13/04/2022 09:01:13 AM:INFO:************************************ Clicked Login Button ************************************
+13/04/2022 09:01:13 AM:INFO:************************************ Title Validation Passed ************************************
+13/04/2022 09:31:44 AM:INFO:
+
+13/04/2022 09:31:44 AM:INFO:
+
+13/04/2022 09:31:44 AM:INFO:====== WebDriver manager ======
+13/04/2022 09:31:44 AM:INFO:====== WebDriver manager ======
+13/04/2022 09:31:44 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 09:31:44 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 09:31:44 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 09:31:44 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 09:31:45 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 09:31:45 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 09:31:48 AM:INFO:************************************ Test_001_Login ************************************
+13/04/2022 09:31:53 AM:INFO:************************************ navigated to baseURL ************************************
+13/04/2022 09:31:53 AM:INFO:************************************ Validated Title Successfully ************************************
+13/04/2022 09:32:23 AM:INFO:************************************ Navigated to baseURL ************************************
+13/04/2022 09:32:23 AM:INFO:************************************ Received driver reference in LoginPage(self.driver) ************************************
+13/04/2022 09:42:20 AM:INFO:
+
+13/04/2022 09:42:20 AM:INFO:
+
+13/04/2022 09:42:20 AM:INFO:====== WebDriver manager ======
+13/04/2022 09:42:20 AM:INFO:====== WebDriver manager ======
+13/04/2022 09:42:20 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 09:42:20 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 09:42:20 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 09:42:20 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 09:42:21 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 09:42:21 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 09:42:23 AM:INFO:************************************ Test_001_Login ************************************
+13/04/2022 09:42:27 AM:INFO:************************************ Navigated to baseURL ************************************
+13/04/2022 09:42:27 AM:INFO:************************************ Received driver reference in LoginPage(self.driver) ************************************
+13/04/2022 09:42:27 AM:INFO:************************************ Entered Username ************************************
+13/04/2022 09:42:27 AM:INFO:************************************ Entered Password ************************************
+13/04/2022 09:42:28 AM:INFO:************************************ navigated to baseURL ************************************
+13/04/2022 09:42:28 AM:INFO:************************************ Validated Title Successfully ************************************
+13/04/2022 09:42:46 AM:INFO:************************************ Clicked Login Button ************************************
+13/04/2022 09:42:47 AM:INFO:************************************ Title Validation Passed ************************************
+13/04/2022 09:45:18 AM:INFO:
+
+13/04/2022 09:45:18 AM:INFO:
+
+13/04/2022 09:45:18 AM:INFO:====== WebDriver manager ======
+13/04/2022 09:45:18 AM:INFO:====== WebDriver manager ======
+13/04/2022 09:45:19 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 09:45:19 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 09:45:19 AM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 09:45:19 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 09:45:19 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 09:45:20 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 09:45:22 AM:INFO:************************************ Test_001_Login ************************************
+13/04/2022 09:45:27 AM:INFO:************************************ navigated to baseURL ************************************
+13/04/2022 09:45:27 AM:INFO:************************************ Validated Title Successfully ************************************
+13/04/2022 09:45:44 AM:INFO:************************************ Navigated to baseURL ************************************
+13/04/2022 09:45:44 AM:INFO:************************************ Received driver reference in LoginPage(self.driver) ************************************
+13/04/2022 09:45:45 AM:INFO:************************************ Entered Username ************************************
+13/04/2022 09:45:45 AM:INFO:************************************ Entered Password ************************************
+13/04/2022 09:45:49 AM:INFO:************************************ Clicked Login Button ************************************
+13/04/2022 09:45:49 AM:INFO:************************************ Title Validation Passed ************************************
+13/04/2022 04:29:46 PM:INFO:
+
+13/04/2022 04:29:46 PM:INFO:====== WebDriver manager ======
+13/04/2022 04:29:47 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 04:29:47 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 04:29:48 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 04:29:51 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 04:29:51 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 04:29:55 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 04:29:56 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 04:30:10 PM:INFO:********** Passed **********
+13/04/2022 04:30:11 PM:INFO:********** Login DDT Test Passed **********
+13/04/2022 04:30:14 PM:INFO:********** End Of Login DDT Test **********
+13/04/2022 04:30:14 PM:INFO:********** Completed Test_002_DDT_Login **********
+13/04/2022 04:30:18 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BC49EF4B20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef4b447fa1a967b2be4a2fa6728027aa/element
+13/04/2022 04:30:22 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BC49EF4700>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef4b447fa1a967b2be4a2fa6728027aa/element
+13/04/2022 04:30:26 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BC49EF4C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef4b447fa1a967b2be4a2fa6728027aa/element
+13/04/2022 04:32:16 PM:INFO:
+
+13/04/2022 04:32:16 PM:INFO:====== WebDriver manager ======
+13/04/2022 04:32:17 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 04:32:17 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 04:32:17 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 04:32:19 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 04:32:19 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 04:34:26 PM:INFO:
+
+13/04/2022 04:34:26 PM:INFO:====== WebDriver manager ======
+13/04/2022 04:34:27 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 04:34:27 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 04:34:48 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 04:34:50 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 04:34:50 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 04:34:54 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 04:34:54 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 04:35:20 PM:INFO:********** Passed **********
+13/04/2022 04:36:45 PM:INFO:
+
+13/04/2022 04:36:45 PM:INFO:====== WebDriver manager ======
+13/04/2022 04:36:45 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 04:36:45 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 04:36:46 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 04:36:48 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 04:36:48 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 04:36:54 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 04:36:54 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 04:37:04 PM:INFO:********** Passed **********
+13/04/2022 04:38:57 PM:INFO:
+
+13/04/2022 04:38:57 PM:INFO:====== WebDriver manager ======
+13/04/2022 04:38:58 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 04:38:58 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 04:38:58 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 04:39:01 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 04:39:01 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 04:39:05 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 04:39:05 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 04:39:15 PM:INFO:********** Passed **********
+13/04/2022 04:39:15 PM:INFO:********** Login DDT Test Passed **********
+13/04/2022 04:39:17 PM:INFO:********** End Of Login DDT Test **********
+13/04/2022 04:39:17 PM:INFO:********** Completed Test_002_DDT_Login **********
+13/04/2022 04:39:21 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D1EEE29FF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68e529f0f9539e88842024abf71cabc9/element
+13/04/2022 04:39:26 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D1EEE29420>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68e529f0f9539e88842024abf71cabc9/element
+13/04/2022 04:39:30 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D1EEE28A60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68e529f0f9539e88842024abf71cabc9/element
+13/04/2022 06:03:13 PM:INFO:
+
+13/04/2022 06:03:13 PM:INFO:====== WebDriver manager ======
+13/04/2022 06:03:13 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 06:03:13 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 06:03:35 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 06:03:37 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 06:03:37 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 06:03:42 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 06:03:42 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 06:03:52 PM:INFO:********** Passed **********
+13/04/2022 06:03:52 PM:INFO:********** Login DDT Test Passed **********
+13/04/2022 06:03:52 PM:INFO:********** End Of Login DDT Test **********
+13/04/2022 06:03:52 PM:INFO:********** Completed Test_002_DDT_Login **********
+13/04/2022 10:11:43 PM:INFO:
+
+13/04/2022 10:11:43 PM:INFO:====== WebDriver manager ======
+13/04/2022 10:11:43 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 10:11:43 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 10:11:44 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 10:11:46 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 10:11:46 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 10:11:50 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 10:11:50 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 10:11:54 PM:INFO:********** Passed **********
+13/04/2022 10:11:54 PM:INFO:********** Login DDT Test Passed **********
+13/04/2022 10:11:54 PM:INFO:********** End Of Login DDT Test **********
+13/04/2022 10:11:54 PM:INFO:********** Completed Test_002_DDT_Login **********
+13/04/2022 10:11:54 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 10:11:54 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 10:11:56 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 10:11:56 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 10:41:05 PM:INFO:
+
+13/04/2022 10:41:05 PM:INFO:====== WebDriver manager ======
+13/04/2022 10:41:06 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 10:41:06 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 10:41:06 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 10:41:09 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 10:41:09 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 10:41:13 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 10:41:13 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 10:41:17 PM:INFO:********** Passed **********
+13/04/2022 10:41:17 PM:INFO:********** Login DDT Test Passed **********
+13/04/2022 10:41:23 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002528323C790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/95cb9e479cce719964125c5af03f5c57/url
+13/04/2022 10:41:28 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002528323C580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/95cb9e479cce719964125c5af03f5c57/url
+13/04/2022 10:41:32 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002528323C4C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/95cb9e479cce719964125c5af03f5c57/url
+13/04/2022 10:46:35 PM:INFO:
+
+13/04/2022 10:46:35 PM:INFO:====== WebDriver manager ======
+13/04/2022 10:46:35 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 10:46:35 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 10:46:36 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 10:46:38 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 10:46:38 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 10:47:12 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 10:47:12 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 10:47:23 PM:INFO:
+
+13/04/2022 10:47:23 PM:INFO:====== WebDriver manager ======
+13/04/2022 10:47:24 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 10:47:24 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 10:47:24 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 10:47:26 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 10:47:26 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 10:47:31 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 10:47:31 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 10:47:35 PM:INFO:********** Passed **********
+13/04/2022 10:47:36 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 10:47:36 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 10:55:43 PM:INFO:
+
+13/04/2022 10:55:43 PM:INFO:====== WebDriver manager ======
+13/04/2022 10:55:43 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 10:55:43 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 10:55:44 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 10:55:46 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 10:55:46 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 10:55:46 PM:INFO:********** Inside For Loop **********
+13/04/2022 10:55:50 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 10:55:50 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 10:55:50 PM:INFO:********** Got Data **********
+13/04/2022 10:55:51 PM:INFO:********** Entered Username **********
+13/04/2022 10:55:51 PM:INFO:********** Entered Password **********
+13/04/2022 10:55:54 PM:INFO:********** Clicked Login Button **********
+13/04/2022 10:55:54 PM:INFO:********** Captured actual_title **********
+13/04/2022 10:55:54 PM:INFO:********** Inside if-if **********
+13/04/2022 10:55:54 PM:INFO:********** Passed **********
+13/04/2022 10:55:54 PM:INFO:********** Inside For Loop **********
+13/04/2022 10:55:57 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 10:55:57 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 10:55:57 PM:INFO:********** Got Data **********
+13/04/2022 11:01:24 PM:INFO:
+
+13/04/2022 11:01:24 PM:INFO:====== WebDriver manager ======
+13/04/2022 11:01:25 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 11:01:25 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 11:01:25 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 11:01:27 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 11:01:27 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 11:01:27 PM:INFO:********** Inside For Loop **********
+13/04/2022 11:01:34 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 11:01:34 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 11:01:34 PM:INFO:********** Got Data **********
+13/04/2022 11:01:34 PM:INFO:********** Entered Username **********
+13/04/2022 11:01:34 PM:INFO:********** Entered Password **********
+13/04/2022 11:01:55 PM:INFO:********** Clicked Login Button **********
+13/04/2022 11:01:55 PM:INFO:********** Captured actual_title **********
+13/04/2022 11:01:55 PM:INFO:********** Inside if-if **********
+13/04/2022 11:01:55 PM:INFO:********** Passed **********
+13/04/2022 11:01:57 PM:INFO:********** Inside if-if self.driver.quit() **********
+13/04/2022 11:01:57 PM:INFO:********** Inside For Loop **********
+13/04/2022 11:02:01 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CD7686E620>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6446ac434bc047948137f8c3934040f5/url
+13/04/2022 11:02:05 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CD7686C550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6446ac434bc047948137f8c3934040f5/url
+13/04/2022 11:02:09 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CD7686C3D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6446ac434bc047948137f8c3934040f5/url
+13/04/2022 11:05:53 PM:INFO:
+
+13/04/2022 11:05:53 PM:INFO:====== WebDriver manager ======
+13/04/2022 11:05:54 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 11:05:54 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 11:05:54 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 11:05:56 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 11:05:56 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 11:05:56 PM:INFO:********** Inside For Loop **********
+13/04/2022 11:06:00 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 11:06:00 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 11:06:00 PM:INFO:********** Got Data **********
+13/04/2022 11:06:00 PM:INFO:********** Entered Username **********
+13/04/2022 11:06:01 PM:INFO:********** Entered Password **********
+13/04/2022 11:06:04 PM:INFO:********** Clicked Login Button **********
+13/04/2022 11:06:04 PM:INFO:********** Captured actual_title **********
+13/04/2022 11:06:04 PM:INFO:********** Inside if-if **********
+13/04/2022 11:06:04 PM:INFO:********** Passed **********
+13/04/2022 11:06:06 PM:INFO:********** Inside if-if self.driver.quit() **********
+13/04/2022 11:06:06 PM:INFO:********** Inside For Loop **********
+13/04/2022 11:06:10 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016C482CCD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a85e684cf8a28460304bcea77c9befc4/cookie
+13/04/2022 11:06:14 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016C482CC5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a85e684cf8a28460304bcea77c9befc4/cookie
+13/04/2022 11:06:18 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016C482CC400>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a85e684cf8a28460304bcea77c9befc4/cookie
+13/04/2022 11:07:34 PM:INFO:
+
+13/04/2022 11:07:34 PM:INFO:====== WebDriver manager ======
+13/04/2022 11:07:35 PM:INFO:Current google-chrome version is 100.0.4896
+13/04/2022 11:07:35 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+13/04/2022 11:07:35 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+13/04/2022 11:07:37 PM:INFO:********** Test_002_DDT_Login **********
+13/04/2022 11:07:37 PM:INFO:********** Validation Login DDT Test **********
+13/04/2022 11:07:37 PM:INFO:********** Inside For Loop **********
+13/04/2022 11:07:37 PM:INFO:********** setUpFixture **********
+13/04/2022 11:07:58 PM:INFO:********** Navigated to baseURL **********
+13/04/2022 11:07:58 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+13/04/2022 11:07:58 PM:INFO:********** Got Data **********
+13/04/2022 11:07:58 PM:INFO:********** Entered Username **********
+13/04/2022 11:07:58 PM:INFO:********** Entered Password **********
+13/04/2022 11:08:02 PM:INFO:********** Clicked Login Button **********
+13/04/2022 11:08:02 PM:INFO:********** Captured actual_title **********
+13/04/2022 11:08:02 PM:INFO:********** Inside if-if **********
+13/04/2022 11:08:02 PM:INFO:********** Passed **********
+13/04/2022 11:08:04 PM:INFO:********** Inside if-if self.driver.quit() **********
+13/04/2022 11:08:04 PM:INFO:********** Inside For Loop **********
+13/04/2022 11:08:04 PM:INFO:********** setUpFixture **********
+13/04/2022 11:08:08 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000204188C0D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/65bd4ebd7be4842d46c287f5cd81eaad/cookie
+13/04/2022 11:08:12 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000204188C05E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/65bd4ebd7be4842d46c287f5cd81eaad/cookie
+13/04/2022 11:08:16 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000204188C0460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/65bd4ebd7be4842d46c287f5cd81eaad/cookie
+14/04/2022 09:03:29 AM:INFO:
+
+14/04/2022 09:03:29 AM:INFO:====== WebDriver manager ======
+14/04/2022 09:03:29 AM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 09:03:29 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 09:05:08 AM:INFO:
+
+14/04/2022 09:05:08 AM:INFO:====== WebDriver manager ======
+14/04/2022 09:05:08 AM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 09:05:08 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 09:05:47 AM:INFO:
+
+14/04/2022 09:05:47 AM:INFO:====== WebDriver manager ======
+14/04/2022 09:05:47 AM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 09:05:47 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 09:09:19 AM:INFO:
+
+14/04/2022 09:09:19 AM:INFO:====== WebDriver manager ======
+14/04/2022 09:09:20 AM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 09:09:20 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 09:09:20 AM:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+14/04/2022 09:09:22 AM:INFO:Driver has been saved in cache [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+14/04/2022 09:09:30 AM:INFO:********** Test_002_DDT_Login **********
+14/04/2022 09:09:30 AM:INFO:********** Validation Login DDT Test **********
+14/04/2022 09:09:30 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:09:30 AM:INFO:********** setUpFixture **********
+14/04/2022 09:10:05 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:10:05 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:10:05 AM:INFO:********** Got Data **********
+14/04/2022 09:12:02 AM:INFO:
+
+14/04/2022 09:12:02 AM:INFO:====== WebDriver manager ======
+14/04/2022 09:12:03 AM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 09:12:03 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 09:12:03 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+14/04/2022 09:12:05 AM:INFO:********** Test_002_DDT_Login **********
+14/04/2022 09:12:05 AM:INFO:********** Validation Login DDT Test **********
+14/04/2022 09:12:05 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:12:05 AM:INFO:********** setUpFixture **********
+14/04/2022 09:12:25 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:12:25 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:12:25 AM:INFO:********** Got Data **********
+14/04/2022 09:12:25 AM:INFO:********** Entered Username **********
+14/04/2022 09:12:26 AM:INFO:********** Entered Password **********
+14/04/2022 09:12:29 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:12:29 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:12:29 AM:INFO:********** Inside if-if **********
+14/04/2022 09:12:29 AM:INFO:********** Passed **********
+14/04/2022 09:12:29 AM:INFO:********** Inside if-if self.driver.quit() **********
+14/04/2022 09:12:29 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:12:29 AM:INFO:********** setUpFixture **********
+14/04/2022 09:12:31 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:12:31 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:12:32 AM:INFO:********** Got Data **********
+14/04/2022 09:12:32 AM:INFO:********** Entered Username **********
+14/04/2022 09:12:32 AM:INFO:********** Entered Password **********
+14/04/2022 09:12:32 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:12:32 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:12:32 AM:INFO:********** Inside elif-elif **********
+14/04/2022 09:12:32 AM:INFO:********** Passed **********
+14/04/2022 09:12:32 AM:INFO:********** Inside elif-elif self.driver.quit() **********
+14/04/2022 09:12:32 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:12:32 AM:INFO:********** setUpFixture **********
+14/04/2022 09:12:34 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:12:34 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:12:34 AM:INFO:********** Got Data **********
+14/04/2022 09:12:34 AM:INFO:********** Entered Username **********
+14/04/2022 09:12:34 AM:INFO:********** Entered Password **********
+14/04/2022 09:12:35 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:12:35 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:12:35 AM:INFO:********** Inside elif-elif **********
+14/04/2022 09:12:35 AM:INFO:********** Passed **********
+14/04/2022 09:12:35 AM:INFO:********** Inside elif-elif self.driver.quit() **********
+14/04/2022 09:12:35 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:12:35 AM:INFO:********** setUpFixture **********
+14/04/2022 09:12:37 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:12:37 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:12:37 AM:INFO:********** Got Data **********
+14/04/2022 09:12:37 AM:INFO:********** Entered Username **********
+14/04/2022 09:12:37 AM:INFO:********** Entered Password **********
+14/04/2022 09:12:38 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:12:38 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:12:38 AM:INFO:********** Inside elif-elif **********
+14/04/2022 09:12:38 AM:INFO:********** Passed **********
+14/04/2022 09:12:38 AM:INFO:********** Inside elif-elif self.driver.quit() **********
+14/04/2022 09:12:38 AM:INFO:********** Login DDT Test Passed **********
+14/04/2022 09:12:38 AM:INFO:********** End Of Login DDT Test **********
+14/04/2022 09:12:38 AM:INFO:********** Completed Test_002_DDT_Login **********
+14/04/2022 09:38:42 AM:INFO:
+
+14/04/2022 09:38:42 AM:INFO:====== WebDriver manager ======
+14/04/2022 09:38:43 AM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 09:38:43 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 09:38:43 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+14/04/2022 09:38:46 AM:INFO:********** Test_002_DDT_Login **********
+14/04/2022 09:38:46 AM:INFO:********** Validation Login DDT Test **********
+14/04/2022 09:38:46 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:38:46 AM:INFO:********** setUpFixture **********
+14/04/2022 09:38:50 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:38:50 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:38:50 AM:INFO:********** Got Data **********
+14/04/2022 09:38:51 AM:INFO:********** Entered Username **********
+14/04/2022 09:38:51 AM:INFO:********** Entered Password **********
+14/04/2022 09:38:55 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:38:55 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:38:55 AM:INFO:********** Inside if-if **********
+14/04/2022 09:38:55 AM:INFO:********** Passed **********
+14/04/2022 09:38:55 AM:INFO:********** Inside if-if self.driver.quit() **********
+14/04/2022 09:38:55 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:38:55 AM:INFO:********** setUpFixture **********
+14/04/2022 09:38:57 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:38:57 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:38:57 AM:INFO:********** Got Data **********
+14/04/2022 09:38:57 AM:INFO:********** Entered Username **********
+14/04/2022 09:38:57 AM:INFO:********** Entered Password **********
+14/04/2022 09:38:58 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:38:58 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:38:58 AM:INFO:********** Inside elif-elif **********
+14/04/2022 09:38:58 AM:INFO:********** Passed **********
+14/04/2022 09:38:58 AM:INFO:********** Inside elif-elif self.driver.quit() **********
+14/04/2022 09:38:58 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:38:58 AM:INFO:********** setUpFixture **********
+14/04/2022 09:38:59 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:38:59 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:38:59 AM:INFO:********** Got Data **********
+14/04/2022 09:38:59 AM:INFO:********** Entered Username **********
+14/04/2022 09:39:00 AM:INFO:********** Entered Password **********
+14/04/2022 09:39:00 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:39:00 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:39:00 AM:INFO:********** Inside elif-elif **********
+14/04/2022 09:39:00 AM:INFO:********** Passed **********
+14/04/2022 09:39:00 AM:INFO:********** Inside elif-elif self.driver.quit() **********
+14/04/2022 09:39:00 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:39:00 AM:INFO:********** setUpFixture **********
+14/04/2022 09:39:02 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:39:02 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:39:02 AM:INFO:********** Got Data **********
+14/04/2022 09:39:02 AM:INFO:********** Entered Username **********
+14/04/2022 09:39:02 AM:INFO:********** Entered Password **********
+14/04/2022 09:39:03 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:39:03 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:39:03 AM:INFO:********** Inside elif-elif **********
+14/04/2022 09:39:03 AM:INFO:********** Passed **********
+14/04/2022 09:39:03 AM:INFO:********** Inside elif-elif self.driver.quit() **********
+14/04/2022 09:39:03 AM:INFO:********** Login DDT Test Passed **********
+14/04/2022 09:39:03 AM:INFO:********** End Of Login DDT Test **********
+14/04/2022 09:39:03 AM:INFO:********** Completed Test_002_DDT_Login **********
+14/04/2022 09:41:39 AM:INFO:
+
+14/04/2022 09:41:39 AM:INFO:====== WebDriver manager ======
+14/04/2022 09:41:39 AM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 09:41:39 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 09:41:40 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+14/04/2022 09:41:41 AM:INFO:********** Test_002_DDT_Login **********
+14/04/2022 09:41:41 AM:INFO:********** Validation Login DDT Test **********
+14/04/2022 09:41:41 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:41:41 AM:INFO:********** setUpFixture **********
+14/04/2022 09:41:46 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:41:46 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:41:46 AM:INFO:********** Got Data **********
+14/04/2022 09:41:46 AM:INFO:********** Entered Username **********
+14/04/2022 09:41:46 AM:INFO:********** Entered Password **********
+14/04/2022 09:41:50 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:41:50 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:41:50 AM:INFO:********** Inside if-if **********
+14/04/2022 09:41:50 AM:INFO:********** Passed **********
+14/04/2022 09:41:50 AM:INFO:********** Inside if-if self.driver.quit() **********
+14/04/2022 09:41:50 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:41:50 AM:INFO:********** setUpFixture **********
+14/04/2022 09:41:52 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:41:52 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:41:52 AM:INFO:********** Got Data **********
+14/04/2022 09:41:53 AM:INFO:********** Entered Username **********
+14/04/2022 09:41:53 AM:INFO:********** Entered Password **********
+14/04/2022 09:42:27 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:42:44 AM:INFO:
+
+14/04/2022 09:42:44 AM:INFO:====== WebDriver manager ======
+14/04/2022 09:42:45 AM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 09:42:45 AM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 09:42:45 AM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+14/04/2022 09:42:47 AM:INFO:********** Test_002_DDT_Login **********
+14/04/2022 09:42:47 AM:INFO:********** Validation Login DDT Test **********
+14/04/2022 09:42:47 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:42:47 AM:INFO:********** setUpFixture **********
+14/04/2022 09:42:51 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:42:51 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:42:51 AM:INFO:********** Got Data **********
+14/04/2022 09:42:51 AM:INFO:********** Entered Username **********
+14/04/2022 09:42:51 AM:INFO:********** Entered Password **********
+14/04/2022 09:43:11 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:43:11 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:43:11 AM:INFO:********** Inside if-if **********
+14/04/2022 09:43:11 AM:INFO:********** Passed **********
+14/04/2022 09:43:11 AM:INFO:********** Inside if-if self.driver.quit() **********
+14/04/2022 09:43:11 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:43:11 AM:INFO:********** setUpFixture **********
+14/04/2022 09:43:15 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:43:15 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:43:15 AM:INFO:********** Got Data **********
+14/04/2022 09:43:15 AM:INFO:********** Entered Username **********
+14/04/2022 09:43:15 AM:INFO:********** Entered Password **********
+14/04/2022 09:43:16 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:43:16 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:43:16 AM:INFO:********** Inside elif-elif **********
+14/04/2022 09:43:16 AM:INFO:********** Passed **********
+14/04/2022 09:43:16 AM:INFO:********** Inside elif-elif self.driver.quit() **********
+14/04/2022 09:43:16 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:43:16 AM:INFO:********** setUpFixture **********
+14/04/2022 09:43:18 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:43:18 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:43:18 AM:INFO:********** Got Data **********
+14/04/2022 09:43:18 AM:INFO:********** Entered Username **********
+14/04/2022 09:43:18 AM:INFO:********** Entered Password **********
+14/04/2022 09:43:19 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:43:19 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:43:19 AM:INFO:********** Inside elif-elif **********
+14/04/2022 09:43:19 AM:INFO:********** Passed **********
+14/04/2022 09:43:19 AM:INFO:********** Inside elif-elif self.driver.quit() **********
+14/04/2022 09:43:19 AM:INFO:********** Inside For Loop **********
+14/04/2022 09:43:19 AM:INFO:********** setUpFixture **********
+14/04/2022 09:43:20 AM:INFO:********** Navigated to baseURL **********
+14/04/2022 09:43:20 AM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 09:43:20 AM:INFO:********** Got Data **********
+14/04/2022 09:43:21 AM:INFO:********** Entered Username **********
+14/04/2022 09:43:21 AM:INFO:********** Entered Password **********
+14/04/2022 09:43:21 AM:INFO:********** Clicked Login Button **********
+14/04/2022 09:43:21 AM:INFO:********** Captured actual_title **********
+14/04/2022 09:43:21 AM:INFO:********** Inside elif-elif **********
+14/04/2022 09:43:21 AM:INFO:********** Passed **********
+14/04/2022 09:43:21 AM:INFO:********** Inside elif-elif self.driver.quit() **********
+14/04/2022 09:43:21 AM:INFO:********** Login DDT Test Passed **********
+14/04/2022 09:43:21 AM:INFO:********** End Of Login DDT Test **********
+14/04/2022 09:43:21 AM:INFO:********** Completed Test_002_DDT_Login **********
+14/04/2022 01:42:23 PM:INFO:
+
+14/04/2022 01:42:23 PM:INFO:
+
+14/04/2022 01:42:23 PM:INFO:====== WebDriver manager ======
+14/04/2022 01:42:23 PM:INFO:====== WebDriver manager ======
+14/04/2022 01:42:24 PM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 01:42:24 PM:INFO:Current google-chrome version is 100.0.4896
+14/04/2022 01:42:24 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 01:42:24 PM:INFO:Get LATEST chromedriver version for 100.0.4896 google-chrome
+14/04/2022 01:42:24 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+14/04/2022 01:42:24 PM:INFO:Driver [C:\Users\sourabh_sahu\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+14/04/2022 01:42:31 PM:INFO:********** Navigated to baseURL ************************************
+14/04/2022 01:42:31 PM:INFO:********** Navigated to baseURL ************************************
+14/04/2022 01:42:31 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 01:42:31 PM:INFO:********** Received driver reference in LoginPage(self.driver) **********
+14/04/2022 01:42:31 PM:INFO:********** Entered Username **********
+14/04/2022 01:42:31 PM:INFO:********** Entered Username **********
+14/04/2022 01:42:31 PM:INFO:********** Entered Password **********
+14/04/2022 01:42:31 PM:INFO:********** Entered Password **********
+14/04/2022 01:42:50 PM:INFO:********** Clicked Login Button **********
+14/04/2022 01:42:50 PM:INFO:********** Clicked Login Button **********
+14/04/2022 01:42:50 PM:INFO:********** Title Validation Passed **********
+14/04/2022 01:42:50 PM:INFO:********** Title Validation Passed **********
